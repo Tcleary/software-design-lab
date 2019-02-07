@@ -1,13 +1,12 @@
-# $NAME's Technical Journal
+# Thomas's Technical Journal
 
 ## Week Two (1/30 to 2/6)
 
-This week, I spent part of my time reviewing Git and the command line, including an hour with the DHRI command line tutorial. I found Git to be tough going, but feel like I made solid progress learning how to use pipes on the command line, though I'm still a little confused on the details of how they work. I also started learning how to run scripts in Python, which was very time consuming.
+This week, I spent part of my time reviewing Git and the command line and reading about the history FOSS and design principles.  I was already familiar with the command line, so spent the time working on upgrading my laptop's drive to an SSD.  Time was also spent on a work project invol
 
-Hour 1: Git review using Pro Git book
-Hour 2: Git review using Pro Git book
-Hour 3: Phone call with classmate to fiture out pipes
-Hour 4: Tried running a "hello world" Python script
-Hour 5: ''
-Hour 6: ''
-Hour 7: Should have given up, but got the script eworking, though I'm still not sure what went wrong.
+Hour 1: Spent the time figuring out how to clone an harddrive in Linux.  Found out about "rsync" which seems very useful
+Hour 2: Cloning a harddrive in Linux seemed overly complicated, so I did a clean install and began setting up software needed (laptop is for class)
+Hour 3: Read *Decoding Liberation*
+Hour 4: Started reading *The Design of Design*
+Hour 5: Reviewed Git using the DHRI Git tutorial, looked into VS Code as a editor to use
+Hour 6: 
