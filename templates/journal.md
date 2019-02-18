@@ -1,3 +1,4 @@
+
 # Thomas's Technical Journal
 
 ## Week Two (1/30 to 2/6)
@@ -19,3 +20,14 @@ This week I started learning how to use python.  I've done a tutorial before, bu
 *Hour 2: Did excercises 1-6, played around with the Study Drills too, didn't run into any problems
 *Hour 3: Did excercises 7-11, added played around with input() with some older excercises
 *Hour 4: Did excercises 12 & 13, played around with inputs and modules a bit
+
+
+## Week Four (2/14 to 2/20)
+
+This week I continued *Learn Python3 the Hard Way*
+
+*Hour 1: Did excercise 14, started playing *Zork* got 15 points and killed by the troll in the basement. Did actually think about how the commands and prompts were structed to make the game work.
+*Hour 2: Did excercise 15, including "Study Drills," ran into some problems figuring out how to get the script to work with input() and including close().  Realized I could change an older script I had to convert excel to XML, but then realized this was written in python 2 and decided  to save that project for later. Did excercise 16.
+*Hour 3:
+
+
