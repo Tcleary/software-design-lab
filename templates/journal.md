@@ -30,3 +30,8 @@ This week I continued *Learn Python3 the Hard Way*
 *Hour 3: Did excercise 17, spent most of the time figuring out how to get the code down to one line. 
 *Hour 4/5: Did excercises 18-21, stopped before doing ex21 study drills.
 
+## Week 5 (2/21 to 2/27)
+
+More python
+
+*Hours 1&2: I took the python2 script I had to convert Excel sheet into indivudual XML files so it would work in python3.  At first it worked, but then noticed a lot of fields were missing.  After running it a few times I realized I was missing the code to write those specific fields. Got that working, but the "Date" field kept not showing up.  After a whole lot more poking around, I realized Python wasn't reading the Date column, because the column was listing the dates as dates, not as plain text. This led to some reformatting in Excel and now the files are exported correctly. The remaining issue is a "Traceback ....." error because the script reads past the last row and is hitting blank "Filename" cells or reading a column too far.  Will investigate more later.
