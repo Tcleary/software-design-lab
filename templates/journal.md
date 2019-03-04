@@ -38,3 +38,11 @@ More python
 *Hour 3: Set up Jekyll.  Installed it the basic way first and nothing worked, then I found the better and more detailed instructions and got it all up and running
 *Hour 4/5ish: Worked on Python3 The Hard Way, did ex22 which has you write down and list every command so far.  I found this very useful since I realized I forgot a bunch of things.
 *Hour 5ish?: Worked on a topic modeling project using Mallet, but this time instead of using RStudio to melt and reform the data, I used pandas in python to create the final excel doc. Started looking into using Python to model n-grams.
+
+
+## Week 6 (2/28 to 3/6)
+
+Spent time reading about free software and opensource software, looked into what the GNU-GLP license says
+
+Coding practice:
+*Hour 1-3: Returned to *Learn Python 3*, started excercise 23, eyes glazed over at Unicode, read through the whole thing slowly, sort of understood it.  Example 24 went fine.  Hit a lot of trouble with example 25, in the part of working directly in python (rather than a python file).  Besides typos I hit a "UnboundLocalError" saying that the variable is being referenced before being assigned, even though that part of code is where the variable is being assigned.  After a long time poking around, I realized I was missing a chunk of code. 
