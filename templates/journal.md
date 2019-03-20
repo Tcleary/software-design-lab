@@ -46,3 +46,17 @@ Spent time reading about free software and opensource software, looked into what
 
 Coding practice:
 *Hour 1-3: Returned to *Learn Python 3*, started excercise 23, eyes glazed over at Unicode, read through the whole thing slowly, sort of understood it.  Example 24 went fine.  Hit a lot of trouble with example 25, in the part of working directly in python (rather than a python file).  Besides typos I hit a "UnboundLocalError" saying that the variable is being referenced before being assigned, even though that part of code is where the variable is being assigned.  After a long time poking around, I realized I was missing a chunk of code. 
+
+## Week 7 (3/7 to 3/13)
+
+Didn't have a whole lot of time this week to do home work
+Hour 1-2: Played around with using text analysis with Mallet on the command line
+
+## Week 8 (3/14 to 3/20)
+
+Didn't have a huge amount of time to practive python, but spent many hours trying to troubleshoot a repository at work
+
+*Hour 1: Did ex26 in *Learn Python*, edited to justly say there cannot be too many cats.
+*Hour 2: Started memorizing the logic tables and looking at the Boolean  expressions
+*Hour 3: Worked on ex31 but didn't go super into the study drills. Got stumped on ex32 on how to append assign a range directly to a list, not entirely sure it's possible
+
