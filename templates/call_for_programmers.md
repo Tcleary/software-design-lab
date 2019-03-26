@@ -1,4 +1,4 @@
-#Call for Programmers
+# Call for Programmers
 
 The Center for Public History has received a grant to create an app for our New York City Oral History initiative.  We are now looking for developers to create an app that lets people record and publish Oral Histories of themselves, family friends, the guy from the corner store, etc., and make them public on our website. The app will also allow users the option to upload things like photos and documents that help flesh out their stories, and the ability to handle sure that we have all the right permissions and legal .  Not only will this help build the historical record, but also give people a chance to record and organize their own personal collections to share with friends and family online on the center’s website.
 
