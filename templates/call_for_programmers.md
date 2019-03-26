@@ -4,7 +4,7 @@ The Center for Public History has received a grant to create an app for our New 
 
 Since we are receiving government funds and to keep in the spirit of transparency and in making information available, all source code will be make public and instructions created to give other organizations the chance to use this tool in their own project.  Due to the state of the GLAM field and the constant technology and resource gap, for the app to be effective, it will also need to be lightweight and simple to set up.
 
-General requirements that the app needs:
+**General requirements that the app needs:**
 * An app to take audio and/or video recordings 
 * To record personal information (person’s name, date, location, contact information, etc)
 * Ability to upload photos and documents that would be associated with the interviews
@@ -13,4 +13,5 @@ General requirements that the app needs:
 * A public facing website that will provide public access to the interviews.
 * Ability for the app to be lightweight, so it can work with limited IT resources.
 
-The CEnter for Public History is a New York organization dedicated to the development of history that is accessible to everyone.  Or goal is to promote awareness of issues in the museum, archives and education fields and to provide resources that help professionals in those fields reach and interact with the public more effectively.  We are strongly committed to the openness of information and reducing barriers of entry to those who wish to access or promote history.
+**About the Center for Public History**
+The Center for Public History is a New York organization dedicated to the development of history that is accessible to everyone.  Or goal is to promote awareness of issues in the museum, archives and education fields and to provide resources that help professionals in those fields reach and interact with the public more effectively.  We are strongly committed to the openness of information and reducing barriers of entry to those who wish to access or promote history.
