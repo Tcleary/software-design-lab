@@ -54,9 +54,14 @@ Hour 1-2: Played around with using text analysis with Mallet on the command line
 
 ## Week 8 (3/14 to 3/20)
 
-Didn't have a huge amount of time to practive python, but spent many hours trying to troubleshoot a repository at work
+Didn't have a huge amount of time to practice python, but spent many hours trying to troubleshoot a repository at work
 
 *Hour 1: Did ex26 in *Learn Python*, edited to justly say there cannot be too many cats.
 *Hour 2: Started memorizing the logic tables and looking at the Boolean  expressions
 *Hour 3: Worked on ex31 but didn't go super into the study drills. Got stumped on ex32 on how to append assign a range directly to a list, not entirely sure it's possible
 
+## Weeks 9-12 
+
+My playing around with python was spread out all over the place and I had to spend more time on my other class, a work projects, and dealing with a corrupt hard drive on another laptop, but did work my way through more *Learn Python*.
+I spent a lot of time on ex36 where you remake the game that was introduced earlier. It was fun and I played around with While statements and trying to carry some "If Trues" to other rooms, with the idea that the player can pick up an item in one room, turning "item = FALSE" to "item = TRUE" and then have that be referenced later in another room.  I made a potion that if true, would automatically heal you after a "death" incident, letting you keep playing.  Now I'm at ex38 which involves lists and thinking on how this can be used better for an inventory.
+I also worked on the Rob's Network Analysis project, looking into how the csv library/module works and statements we can use in it.  This led to a rabbit hole of getting Gephi to work on my laptop and setting up the JRE 8.
