@@ -14,4 +14,5 @@ Since we are receiving government funds and to keep in the spirit of transparenc
 * Ability for the app to be lightweight, so it can work with limited IT resources.
 
 **About the Center for Public History**
+
 The Center for Public History is a New York organization dedicated to the development of history that is accessible to everyone.  Or goal is to promote awareness of issues in the museum, archives and education fields and to provide resources that help professionals in those fields reach and interact with the public more effectively.  We are strongly committed to the openness of information and reducing barriers of entry to those who wish to access or promote history.
